@@ -1,0 +1,31 @@
+body{
+    background-color: whitesmoke;
+    justify-content: center;
+}
+.container{
+    background-color: black;
+}
+.main-box{
+    background-color: orange;
+    margin: 20px 20px;
+    padding: 20px 0px;
+    color: antiquewhite;
+}
+.main2-box{
+    background-color: brown;
+    color: antiquewhite;
+    margin: 20px 20px;
+}
+.main3-box{
+    background-color: rgb(86, 164, 242);
+    color: antiquewhite;
+    margin: 20px 20px;
+}
+.main4-box{
+    background-color:  rgb(86, 164, 242);
+    margin: 20px 20px;
+}
+/* .main5-box{
+    background-color: orange;
+    margin: 50px 0px;
+} */
